@@ -131,3 +131,4 @@ Project Link:https://github.com/Professor435/Smart-Search-Engine-Semantic-Search
 
 ```
 Open the downloaded HTML file in any browser to see the complete, interactive Smart Semantic Search Engine in action!
+or for more interesing projects and FYP's contact us (professorshami435@gmail.com)
